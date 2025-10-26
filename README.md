@@ -1,6 +1,4 @@
-# Hi 👋, I'm Charles Conner
-
-### A builder
+# Hi, I'm Charles Conner
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=charliec2004&label=Profile views&color=0e75b6&style=flat" alt="charliec2004" /> </p>
 
