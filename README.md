@@ -1,7 +1,5 @@
 # Hi, I'm Charles Conner
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=charliec2004&label=Profile views&color=0e75b6&style=flat" alt="charliec2004" /> </p>
-
 - 🔭 I'm currently working on **a web app for students**
 
 - 🌱 I'm currently learning **React and Next.js**
