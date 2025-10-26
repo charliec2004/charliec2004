@@ -14,7 +14,7 @@ Right now I'm focused on improving my design and system skills.
 [![GitHub](https://img.shields.io/badge/GitHub-charliec2004-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/charliec2004)
 
 ---
-
+### 🕓 Right now I'm...
 🧠 Learning **React** and **Next.js**  
 💻 Building a web app for students  
 
