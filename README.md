@@ -15,8 +15,7 @@ Right now I'm focused on improving my design and system skills.
 
 ---
 ### 🕓 Right now I'm...
-🧠 Learning **React** and **Next.js**  
-💻 Building a web app for students  
+💻 Building a web app for students
 
 ---
 
