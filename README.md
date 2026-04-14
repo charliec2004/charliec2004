@@ -1,6 +1,6 @@
 <div align="center">
 
-# 👋 Hi, I'm **Charles Conner**
+# 👋 Hi, I'm **Charlie Conner**
 
 I study Computer Science at Chapman University 🐾.  
 I like building things that should probably already exist.  
